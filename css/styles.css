@@ -184,6 +184,13 @@ address {
   line-height: inherit;
 }
 
+#myiframe {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
 ol,
 ul {
   padding-left: 2rem;
