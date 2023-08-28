@@ -226,10 +226,10 @@ address {
 }
 
 .button-17 {
-  margin-top: 0%;
   margin-left: 4%;
   margin-bottom: 4%;
-  
+  background: #454b4d;
+  color:rgba(255, 255, 255, 0.85)
 }
 .button-17:hover {
   background: #c3620d;
@@ -243,7 +243,6 @@ address {
 
 .button-17:focus {
   outline: none;
-
   border: 2px solid #4285f4;
 }
 
