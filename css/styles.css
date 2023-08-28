@@ -194,12 +194,10 @@ address {
 .button-17 {
   align-items: center;
   appearance: none;
-  background-color: #fff;
   border-radius: 24px;
   border-style: none;
   box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;
   box-sizing: border-box;
-  color: #3c4043;
   cursor: pointer;
   display: inline-flex;
   fill: currentcolor;
@@ -223,13 +221,14 @@ address {
   width: auto;
   will-change: transform,opacity;
   z-index: 0;
-}
-
-.button-17 {
   margin-left: 4%;
   margin-bottom: 4%;
   background: #454b4d;
   color:rgba(255, 255, 255, 0.85)
+}
+
+.button-17 {
+  
 }
 .button-17:hover {
   background: #c3620d;
