@@ -28,7 +28,11 @@
     margin: 20px 0;
     display: inline-block;}
   .contant_box_404{ margin-top:-50px;}
-
+button{
+border-radius: 25px;
+background: #39ac31;
+color: #fff!important;
+}
 .move {
  text-align:center;
 }
